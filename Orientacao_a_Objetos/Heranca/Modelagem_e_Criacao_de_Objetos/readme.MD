@@ -16,3 +16,5 @@ Esta prática foi elaborada com base no artigo (Aguiar¹, 2015). A prática envo
    
 
 
+AGUIAR, Janderson . Experiência baseada em Gamificação no Ensino sobre Herança em Programação Orientada a Objetos. In: I Workshop de Ensino em Pensamento Computacional, Algoritmos e Programação, 2015, Maceió, 2015. p. 1444-1453
+
