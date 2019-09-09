@@ -2,31 +2,31 @@
 
 ## Introdução:
 
-Repositório destina ao compartilhamento de objetos de aprendizado práticos para aplicação de metodologia ativias. Metodologias ativas visam o ensino-aprenizagem por meio do protagonimo do estudando, ou seja, o estudante é o centro das atenções. Ela visa que o estudante, e também o professor, reflita sobre o que está aprendendo e seja um participante ativo nesse processo.   
+Repositório destina ao compartilhamento de objetos de aprendizado práticos para aplicação de metodologia ativias. Metodologias ativas visam o ensino-aprenizagem por meio do protagonismo do estudando, ou seja, o estudante é o centro das atenções. Ela visa que o estudante, e também o professor, reflita sobre o que está aprendendo e seja um participante ativo nesse processo.   
 
-É importante comentar que nesse repositório somente será contemplado relatos de objetos de aprendizagem que foram aplicados na prático e com resultados comprovados. Não serão aceitos objetos de aprendizagem com não foram validados com a prática. 
+É importante comentar que nesse repositório somente será contemplado relatos de objetos de aprendizagem que foram aplicados na prática e com resultados comprovados. Não serão aceitos objetos de aprendizagem que não foram validados com a prática. 
 
 De forma geral, o relato dos objetos de aprendizagem devem conter as seguintes informações:
 
 * **Introdução**: Uma breve apresentação sobre a sua técnica e qual o conteúdo ou prática essa visa ensinar. 
 * **Requisitos**: O que é necessário para aplicar o conteúdo?
-* **Justificativa(Metodologia ativa?)**: uma breve descição da situação que será usdado o seu objeto de aprendizado. 
-* **A prática(Processo de Aplicação)**: o processo de como aplicar o seu objeto de aprendizado.
+* **Justificativa(Metodologia Ativa?)**: Uma breve descrição da situação que será usdado o seu objeto de aprendizado. 
+* **A prática(Processo de Aplicação)**: O processo de como aplicar o seu objeto de aprendizado.
 * **Problemas na Execução**: Quais problemas podem ocorrer ao executar o objeto de aprendizado.
 * **Resultados Esperados**: Quais são os resultados esperados ao executar o seu objeto de aprendizado.
-* **Referência**: artigos que embasam o seu método.
+* **Referência**: Artigos que embasam o seu método.
 
 O relato é composto pelos seguintes elementos: 
 *  **"Folha de Rosto"**: Uma breve apresentação do objeto de aprendizagem. Veja o exemplo: [Ensino de Herança em Orientação a Objetos](https://github.com/LEDS/leds_ensina_a_ensinar/blob/master/Orientacao_a_Objetos/Heranca/Modelagem_e_Criacao_de_Objetos/readme.MD)
-*  **Detalhamento do objeto de aprendizado**: Um documento no Google Docs que aprentando os detalhes de como aplicar o seu objeto de aprendizagem. Veja o [Template](https://docs.google.com/document/d/1piOvsCZLZ_xlpX4B_dFxfdgZaOg4s3Mbr_rY0u1gCMc/edit?usp=sharing)
-* **Anexos**: qualquer material que ajude a aplicar o objeto de aprendizado como, por exemplo, uma apresentação. 
+*  **Detalhamento do Objeto de Aprendizado**: Um documento no Google Docs que aprentando os detalhes de como aplicar o seu objeto de aprendizagem. Veja o [Template](https://docs.google.com/document/d/1piOvsCZLZ_xlpX4B_dFxfdgZaOg4s3Mbr_rY0u1gCMc/edit?usp=sharing)
+* **Anexos**: Qualquer material que ajude a aplicar o objeto de aprendizado como, por exemplo, uma apresentação. 
 
 ## Organização do Repositório:
 
 Os objetos de aprendizagem são organizados em 2 níves:
 
 * **Assunto Macro**: Um assunto que pode contemplar dois ou mais "assuntos micros". Por exemplo, aqui definimos que Orientação a objetos é um assunto macro no qual esse pode contemplar o "assunto micro" *Herança*. Esse "assunto micro" **Não** pode ser subdivido em outros assuntos.
-* **Assunto micro**: Um assunto que não pode ser subdividido. 
+* **Assunto Micro**: Um assunto que não pode ser subdividido. 
 
 Os assuntos (Macro e Micro) estão em pastas dentro do repositório. Um assunto micro pode e conter um ou mais objetos de aprendizagem. 
 
